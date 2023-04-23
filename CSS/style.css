@@ -146,5 +146,23 @@ header{
 .margin-top{
     margin-top: 20px;
 }
+/* companies-section================= */
+
+.logo{
+    height: 46px;
+    width: 155px;
+}
+
+.logos{
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-block: 70px;
+}
+
+.companies-header{
+    text-align: center;
+    margin-block: 30px;
+    color: var(--primary-text-color);
+}
 
 
