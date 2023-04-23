@@ -35,7 +35,7 @@ p{
     font-family: 'Roboto', sans-serif;
     font-size: 1.25rem;
     color: var(--secondary-text-color);
-    line-height: 1.8rem;
+    line-height: 1.6rem;
 }
 ul{
     list-style: none;
@@ -126,6 +126,25 @@ a{
 .secondary-button:hover{
     border-color: var(--accent-color);
     color: var(--accent-color);
+}
+
+/* header section================ */
+
+header{
+    padding: var(--padding-inline-section);
+}
+
+.header-section{
+    justify-content: center;
+    gap: 50px;
+}
+
+.header-right img{
+    height: 480px;
+    width: 700px;
+}
+.margin-top{
+    margin-top: 20px;
 }
 
 
