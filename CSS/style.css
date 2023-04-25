@@ -211,6 +211,12 @@ header {
   align-items: flex-start;
 }
 
-.feature-desc h4{
-  
+/* examples section=========== */
+.examples-header{
+  text-align: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.examples-heading-text{
+  margin-bottom: 20px;
 }
