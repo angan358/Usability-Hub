@@ -281,3 +281,12 @@ footer{
 .footer-container{
   justify-content: space-between;
 }
+/* sub-footer-section=============== */
+.sub-footer-container{
+  justify-content: center;
+  gap: 30px;
+}
+.sub-footer{
+  background-color: #b9cde4;
+  padding: var(--padding-inline-section);
+}
