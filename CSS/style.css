@@ -191,3 +191,26 @@ header {
     text-align: center;
     max-width: 30%;
 }
+
+/* big feature section================== */
+.big-feature-section{
+  padding: var(--padding-inline-section) 0;
+  margin-block: 60px;
+}
+.big-feature-container{
+  gap: 30px;
+}
+
+
+.feature-img img{
+  width: 100%;
+}
+
+.feature-desc{
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.feature-desc h4{
+  
+}
