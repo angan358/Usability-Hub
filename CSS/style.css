@@ -268,3 +268,16 @@ header {
 }
 
 /* footer-section============== */
+
+footer{
+  padding-block: 80px;
+  background-color: #ebf2fa;
+}
+.link-column{
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+.footer-container{
+  justify-content: space-between;
+}
